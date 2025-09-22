@@ -12,7 +12,7 @@ header, footer {
 }
 
 nav a {
-  color: white;
+  color: rgb(255, 255, 255);
   margin: 0 10px;
   text-decoration: none;
 }
